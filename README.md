@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdón López</h1>
+<h1 align="center">Hi 👋, SOy Abdón López</h1>
 <h3 align="center">Desarrollador frontend apasionado por construir interfaces funcionales, limpias y enfocadas en la experiencia del usuario. Tengo experiencia profesional trabajando con React, Tailwind CSS, Express, PostgreSQL y herramientas modernas del ecosistema JavaScript/TypeScript.</h3>
 
 - 📫 How to reach me **📧 abdonlc0313@gmail.com 💼https://www.linkedin.com/in/abdonlc/ 🌐Portafolio**
