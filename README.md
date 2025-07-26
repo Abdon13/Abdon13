@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, SOy Abdón López</h1>
 <h3 align="center">Desarrollador frontend apasionado por construir interfaces funcionales, limpias y enfocadas en la experiencia del usuario. Tengo experiencia profesional trabajando con React, Tailwind CSS, Express, PostgreSQL y herramientas modernas del ecosistema JavaScript/TypeScript.</h3>
 
-- 📫 How to reach me **📧 abdonlc0313@gmail.com 💼https://www.linkedin.com/in/abdonlc/ 🌐Portafolio**
+- 📫 How to reach me **
+- 📧 abdonlc0313@gmail.com
+- 💼https://www.linkedin.com/in/abdonlc/
+- 🌐Portafolio**
 
-- ⚡ Fun fact **Soy una persona curiosa, me encanta aprender nuevas tecnologías y siempre estoy buscando mejorar la experiencia del usuario desde el código.**
+- ⚡**Soy una persona curiosa, me encanta aprender nuevas tecnologías y siempre estoy buscando mejorar la experiencia del usuario desde el código.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdonlc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdonlc/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/abdonlc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdonlc/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
